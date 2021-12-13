@@ -1,0 +1,7 @@
+name: FeatherOfKnowledge
+main: me.vaape.featherofknowledge.FeatherOfKnowledge
+version: 1.0
+api-version: 1.17
+commands:
+  feather:
+    description: Gives feather of knowledge
